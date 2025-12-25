@@ -1,0 +1,5 @@
+*.html
+scan_report.log
+*.exe
+*.dll
+.DS_Store
