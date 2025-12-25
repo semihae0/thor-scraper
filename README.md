@@ -21,6 +21,7 @@ Proje, siber tehdit istihbaratı (CTI) süreçlerinde veri toplama (Collection) 
 
    Yapılandırma **ÖNEMLİ**
   Tarama yapılacak adresleri belirlemek için ana dizinde `targets.yaml` adındaki dosyaya aşşağıdaki formatta linkleri giriniz:
+  
 adresler:
   - http://örneksite1.onion/
   - http://örneksite2.onion/
@@ -31,6 +32,7 @@ adresler:
 
 
 Sizin için `targets.yaml` adındaki dosyaya yapıştırabileceğiniz örnekler koydum:
+
 adresler:
   - http://zwf5i7hiwmffq2bl7euedg6y5ydzze3ljiyrjmm7o42vhe7ni56fm7qd.onion/
   - http://vu3miq3vhxljfclehmvy7ezclvsb3vksmug5vuivbpw4zovyszbemvqd.onion/
