@@ -19,6 +19,7 @@ Proje, siber tehdit istihbaratı (CTI) süreçlerinde veri toplama (Collection) 
   -- Gerekli Go modüllerini indirin: --
       go mod tidy
 
+
    Yapılandırma **ÖNEMLİ**
   Tarama yapılacak adresleri belirlemek için ana dizinde `targets.yaml` adındaki dosyaya aşşağıdaki formatta linkleri giriniz:
  ```yaml 
