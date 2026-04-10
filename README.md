@@ -21,7 +21,7 @@ Proje, siber tehdit istihbaratı (CTI) süreçlerinde veri toplama (Collection) 
 
 
    Yapılandırma **ÖNEMLİ**
-  Tarama yapılacak adresleri belirlemek için ana dizinde `targets.yaml` adındaki dosyaya aşşağıdaki formatta linkleri giriniz:
+  Tarama yapılacak adresleri belirlemek için ana dizinde `targets.yaml` adındaki dosyaya aşağıdaki formatta linkleri giriniz:
  ```yaml 
 adresler:
   - http://örneksite1.onion/
